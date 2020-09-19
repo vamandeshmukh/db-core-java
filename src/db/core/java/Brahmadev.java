@@ -5,6 +5,7 @@ package db.core.java;
 
 public class Brahmadev {
 	// this is a simple POJO class
+	private int test;
 	private int id;
 	private String name;
 	public int getId() {
