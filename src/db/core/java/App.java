@@ -12,7 +12,7 @@ public class App {
 
 
 		for (int i = 1; i <= 10; i++) {
-			System.out.println(i);
+			System.out.println("print" + i);
 		}
 		
 		// Abstraction in OOP ? -- minimum necessary representation 
